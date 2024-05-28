@@ -1,0 +1,8 @@
+sample	condition
+SRR420912	Control
+SRR420913	Control
+SRR420914	Control
+SRR420915	Salt_Stress
+SRR420916	Salt_Stress
+SRR420917	Salt_stress
+
